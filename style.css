@@ -11,5 +11,13 @@ p.second {
 width: 100%;
 color: blue;
 font-family: "Comic Sans MS";
+font-size: 22px;
+text-align: right; /*CSS Comment  you could 
+use right, left, or center in this tag*/
+}
+img {
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
